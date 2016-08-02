@@ -38,7 +38,7 @@
         hive.user=hadoop
         hive.password=
 ```
-    *   (2).hivemeta/WEB-INF/classes/common.properties：
+    *  (2).hivemeta/WEB-INF/classes/common.properties：
 ```
     #hdfs连接配置
     namenode.url=hdfs://192.168.8.45:9000
@@ -52,5 +52,5 @@
     *  (6).默认的登录用户名和密码均为admin，删除表时输入的管理员验证码为admin123456
 
 *  3.注意：
-需要确保hiveserver服务已开启，并且程序所在主机可以正常访问hiverserver与hdfs、hive请使用1.0以上版本，否则不知道能否兼容
+    *  需要确保hiveserver服务已开启，并且程序所在主机可以正常访问hiverserver与hdfs、hive请使用1.0以上版本，否则不知道能否兼容
 
