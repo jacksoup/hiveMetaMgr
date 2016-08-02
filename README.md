@@ -12,7 +12,13 @@
 *   10.如果你的调度系统是zeus，那么可以通过本系统和zeus结合，实现对字段与表在zeus中的开发中心引用关系的查看
 
 ##系统使用截图如下：
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/1.jpg)
+![image1](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/1.jpg)
+![image2](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/2.jpg)
+![image3](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/3.jpg)
+![image4](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/4.jpg)
+![image5](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/5.jpg)
+![image6](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/6.jpg)
+![image7](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/7.jpg)
 
 ##使用说明：
 *   1.下载
