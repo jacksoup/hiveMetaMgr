@@ -8,7 +8,10 @@
 *   6.数据下载，直接从hdfs上下载原始数据，可以对整表或者分区进行下载
 *   7.表或该表相应分区的删除（需要数据管理员验证码）
 *   8.执行SQl查询与更新操作，并且可以进行查询结果的导出
+*   9.执行SQl查询与更新操作，并且可以进行查询结果的导出
+*   10.如果你的调度系统是zeus，那么可以通过本系统和zeus结合，实现对字段与表在zeus中的开发中心引用关系的查看
 
+系统使用截图如下：
 ![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/1.jpg)
 ![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/2.jpg)
 ![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/3.jpg)
