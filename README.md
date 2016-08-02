@@ -6,7 +6,8 @@
 *   4.对表数据或按分区进行预览
 *   5.对表数据或按分区进行数据EXCEl格式导出
 *   6.数据下载，直接从hdfs上下载原始数据，可以对整表或者分区进行下载
-*   7.表或这表相应分区的删除（需要数据管理员验证码）
+*   7.表或该表相应分区的删除（需要数据管理员验证码）
+*   8.执行SQl查询与更新操作，并且可以进行查询结果的导出
 
 ![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/1.png)
 ![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/2.png)
