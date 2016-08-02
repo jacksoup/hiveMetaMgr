@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.common;
+package org.caesar.hivemeta.common;
 
 import org.apache.poi.hssf.usermodel.*;
 import org.apache.poi.hssf.util.HSSFColor;

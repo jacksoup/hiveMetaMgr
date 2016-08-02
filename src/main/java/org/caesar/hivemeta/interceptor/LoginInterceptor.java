@@ -1,6 +1,6 @@
-package org.caesar.bi.metadata.interceptor;
+package org.caesar.hivemeta.interceptor;
 
-import org.caesar.bi.metadata.entity.metaMang.TbUser;
+import org.caesar.hivemeta.entity.metaMang.TbUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

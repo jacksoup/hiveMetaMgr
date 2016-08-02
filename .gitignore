@@ -8,4 +8,6 @@
 .settings
 target
 build
+logs
+log
 *.log*

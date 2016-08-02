@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.entity.hive;
+package org.caesar.hivemeta.entity.hive;
 
 /**
  * Created by caesar on 2016/6/28.
@@ -6,27 +6,26 @@ package org.caesar.bi.metadata.entity.hive;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
-import java.util.List;
 
 /**
- * 数据库表
+ *
  */
 @Entity
-@Table(name = "TABLE_PARAMS")
-public class TbTableParams {
-    @Column(name = "TBL_ID")
-    private long tableID;
+@Table(name = "SERDE_PARAMS")
+public class TbSerdeParams {
+    @Column(name = "SERDE_ID")
+    private long serdeID;
     @Column(name = "PARAM_KEY")
     private String paramKey;
     @Column(name = "PARAM_VALUE")
-    private String paramValue;//hdfs uri
+    private String paramValue;
 
-    public long getTableID() {
-        return tableID;
+    public long getSerdeID() {
+        return serdeID;
     }
 
-    public void setTableID(long tableID) {
-        this.tableID = tableID;
+    public void setSerdeID(long serdeID) {
+        this.serdeID = serdeID;
     }
 
     public String getParamKey() {
@@ -47,8 +46,8 @@ public class TbTableParams {
 
     @Override
     public String toString() {
-        return "TbTableParams{" +
-                "tableID=" + tableID +
+        return "TbSerdeParams{" +
+                "serdeID=" + serdeID +
                 ", paramKey='" + paramKey + '\'' +
                 ", paramValue='" + paramValue + '\'' +
                 '}';

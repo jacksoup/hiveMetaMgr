@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.entity.zeus;
+package org.caesar.hivemeta.entity.zeus;
 
 /**
  * Created by caesar on 2016/6/28.

@@ -1,4 +1,4 @@
-<%@ page import="org.caesar.bi.metadata.entity.metaMang.TbUser" %>
+<%@ page import="org.caesar.hivemeta.entity.metaMang.TbUser" %>
 <%@ page import="org.caesar.utils.properties.PropertiesUtil" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ include file="/common/tag.jsp" %>

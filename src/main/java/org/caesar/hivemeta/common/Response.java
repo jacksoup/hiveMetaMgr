@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.common;
+package org.caesar.hivemeta.common;
 /**
  * @author: jack zhu
  * @since: 2014-08 

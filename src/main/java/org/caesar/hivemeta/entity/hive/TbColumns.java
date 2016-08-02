@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.entity.hive;
+package org.caesar.hivemeta.entity.hive;
 
 /**
  * Created by caesar on 2016/6/28.

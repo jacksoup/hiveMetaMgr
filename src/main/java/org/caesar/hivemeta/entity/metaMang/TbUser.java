@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.entity.metaMang;
+package org.caesar.hivemeta.entity.metaMang;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

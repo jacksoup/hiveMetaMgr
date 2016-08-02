@@ -1,11 +1,10 @@
-package org.caesar.bi.metadata.dao;
+package org.caesar.hivemeta.dao;
 
 import com.google.common.base.Joiner;
 import com.google.common.collect.Lists;
-import org.caesar.bi.metadata.entity.hive.*;
-import org.caesar.bi.metadata.entity.metaMang.TbUser;
-import org.caesar.bi.metadata.entity.zeus.TbZeusFile;
-import org.caesar.utils.arrays.ArraysUtil;
+import org.caesar.hivemeta.entity.hive.*;
+import org.caesar.hivemeta.entity.metaMang.TbUser;
+import org.caesar.hivemeta.entity.zeus.TbZeusFile;
 import org.caesar.utils.db.ExecutorDB;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

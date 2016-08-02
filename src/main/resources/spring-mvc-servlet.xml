@@ -46,7 +46,7 @@
 			<mvc:exclude-mapping path="/login" />
 			<mvc:exclude-mapping path="/static/**" />
 			<mvc:exclude-mapping path="/common/**" />
-			<bean id="loginInterceptor" class="org.caesar.bi.metadata.interceptor.LoginInterceptor" />
+			<bean id="loginInterceptor" class="org.caesar.hivemeta.interceptor.LoginInterceptor" />
 		</mvc:interceptor>
 	</mvc:interceptors>
 

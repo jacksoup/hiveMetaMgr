@@ -1,8 +1,8 @@
-package org.caesar.bi.metadata.controller;
+package org.caesar.hivemeta.controller;
 
-import org.caesar.bi.metadata.common.Response;
-import org.caesar.bi.metadata.dao.CommonDML;
-import org.caesar.bi.metadata.entity.metaMang.TbUser;
+import org.caesar.hivemeta.common.Response;
+import org.caesar.hivemeta.dao.CommonDML;
+import org.caesar.hivemeta.entity.metaMang.TbUser;
 import org.caesar.utils.encryption.MD5;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

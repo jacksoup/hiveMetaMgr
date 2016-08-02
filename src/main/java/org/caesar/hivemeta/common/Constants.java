@@ -1,4 +1,4 @@
-package org.caesar.bi.metadata.common;
+package org.caesar.hivemeta.common;
 
 /**
  * Created by caesar on 2016/7/28.
