@@ -1280,7 +1280,7 @@
 //                        height: 40, // give north and south regions a height
 //                        autoEl: {
 //                            tag: 'div',
-//                            html: '<h3>益盟软件数据仓库元数据管理平台</h3>'
+//                            html: '<h3>数据仓库元数据管理平台</h3>'
 //                        }
 //                    }),
                     {
