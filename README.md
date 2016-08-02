@@ -9,10 +9,10 @@
 *   7.表或该表相应分区的删除（需要数据管理员验证码）
 *   8.执行SQl查询与更新操作，并且可以进行查询结果的导出
 
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/1.png)
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/2.png)
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/3.png)
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/4.png)
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/5.png)
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/6.png)
-![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/7.png)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/1.jpg)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/2.jpg)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/3.jpg)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/4.jpg)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/5.jpg)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/6.jpg)
+![image](https://github.com/cnfire/hiveMetaMgr/tree/master/src/main/webapp/doc/7.jpg)
