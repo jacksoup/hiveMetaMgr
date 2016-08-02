@@ -25,7 +25,7 @@ public class LoginController {
      * @return
      * @throws Exception
      */
-    @RequestMapping(value = "/index", method = RequestMethod.GET)
+    @RequestMapping(value ={"/","/index"}, method = RequestMethod.GET)
     public String index() throws Exception {
         return "/index";
     }

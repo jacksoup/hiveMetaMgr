@@ -10,7 +10,7 @@
 	default-lazy-init="false">
 
 	<!-- 自动扫描的包名 以便注册带有@Controller、@Service、@repository、@Component等注解的类成为spring的bean -->
-	<context:component-scan base-package="org.caesar.bi.metadata.controller">
+	<context:component-scan base-package="org.caesar.hivemeta.controller">
 		<context:include-filter type="annotation" expression="org.springframework.stereotype.Controller" />
 	</context:component-scan>
 	<mvc:default-servlet-handler />

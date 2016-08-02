@@ -48,5 +48,9 @@
     mvn compile war:war
 ```
     *  (4).部署至tomcat并将目录修改为hivemeta
+    *  (5).访问：eg：http://localhost:8080/hivemeta
+    *  (6).默认的登录用户名和密码均为admin，删除表时输入的管理员验证码为admin123456
+
 *  3.注意：
 需要确保hiveserver服务已开启，并且程序所在主机可以正常访问hiverserver与hdfs、hive请使用1.0以上版本，否则不知道能否兼容
+
