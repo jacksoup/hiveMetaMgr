@@ -29,7 +29,7 @@
         initialPoolSize = 10
         maxPoolSize = 50
         minPoolSize = 10
-        #hive元数据库相关配置
+        #hive元数据库相关配置（数据库如果不是mysql，请正确设置数据库的jdbc配置，如果是postgresql，则设置参数为：2.postgresql.url、2.postgresql.user、2.postgresql.password，其他的比如：oracle, sqlserver）
         2.mysql.url = jdbc:mysql://192.168.8.46:3306/hive
         2.mysql.user = hive
         2.mysql.password = hive
@@ -56,6 +56,8 @@
 
 *  3.注意：
     *  需要确保hiveserver服务已开启，并且程序所在主机可以正常访问hiverserver与hdfs、hive请使用1.0以上版本，否则不知道能否兼容
+    *  hive存储元数据的数据库如果不是mysql，请正确设置数据库的jdbc配置，如果是postgresql，
+        则设置参数为：2.postgresql.url、2.postgresql.user、2.postgresql.password，其他的比如：oracle, sqlserver
     *  有问题联系QQ:842534390
 *  4.说明：
     由于是一个工具类项目，为了快速开发，项目没有严格按照j2ee规范进行，各方面都比较简陋，比如service、dao等的分层设计（目前都在controller层完成逻辑处理），不足之处，敬请谅解！
