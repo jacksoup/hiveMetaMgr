@@ -38,15 +38,18 @@
         hive.user=hadoop
         hive.password=
 ```
+
     *  (2).hivemeta/WEB-INF/classes/common.properties：
 ```Java
     #hdfs连接配置
     namenode.url=hdfs://192.168.8.45:9000
 ```
+
     *  (3).使用maven命令编译并打成war包：
 ```Java
     mvn compile war:war
 ```
+
     *  (4).部署至tomcat并将目录修改为hivemeta
     *  (5).访问：eg：http://localhost:8080/hivemeta
     *  (6).默认的登录用户名和密码均为admin，删除表时输入的管理员验证码为admin123456
